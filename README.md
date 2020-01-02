@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/231386738.svg)](https://zenodo.org/badge/latestdoi/231386738)
+
 # energy-balance
 VITO UNECE Machine Learning Pilot
 
